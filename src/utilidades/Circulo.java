@@ -1,4 +1,5 @@
 package utilidades;
+//
 
 public class Circulo {
 
@@ -17,7 +18,6 @@ public class Circulo {
         double area = 2 * 3.1416 * rad * rad;
         System.out.println(area);
     }
-        // frfrfferf
     public boolean esIgual (Circulo otro, boolean conDecimales)
     {
         double radio1 = this.rad;
